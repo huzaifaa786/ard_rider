@@ -13,7 +13,6 @@ import 'package:fuodz/requests/settings.request.dart';
 import 'package:fuodz/services/auth.service.dart';
 import 'package:fuodz/services/firebase.service.dart';
 import 'package:fuodz/views/pages/permission/permission.page.dart';
-import 'package:fuodz/widgets/cards/language_selector.view.dart';
 
 import 'package:jiffy/jiffy.dart';
 import 'package:localize_and_translate/localize_and_translate.dart';

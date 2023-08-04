@@ -6,7 +6,7 @@ class AppStrings {
   //
   static String get appName => env('app_name');
   static String get companyName => env('company_name');
-  static String get googleMapApiKey => env('google_maps_key');
+  static String get googleMapApiKey => 'AIzaSyAXuPm_kUfxc3R9RhGkNWpcwmjz6Pub0Jw';
   static String get fcmApiKey => env('fcm_key');
   static String get currencySymbol => env('currency');
   static String get countryCode => env('country_code');

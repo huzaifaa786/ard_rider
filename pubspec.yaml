@@ -100,10 +100,9 @@ dependencies:
 dependency_overrides:
   firebase_chat: ^0.0.6+1
   rxdart: ^0.27.4
-  gallery_previewer: ^0.0.3
   flutter_polyline_points: ^0.2.4
   yaml: ^3.1.0
-  assets_audio_player: ^3.0.4+4
+  assets_audio_player: ^3.0.6
   plugin_platform_interface: ^2.0.0
   image_picker_android: 0.8.4+13
 

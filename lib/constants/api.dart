@@ -2,7 +2,7 @@
 
 class Api {
   static String get baseUrl {
-    return "https://app.arafygh.com/api";
+    return "https://omega.rapidev.tech/api";
     // return "http://192.168.8.145:8000/api";
   }
 

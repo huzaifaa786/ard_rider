@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.greaterworkstech.arafydeliveriesRider"
+    package="com.omegariders"
     xmlns:tools="http://schemas.android.com/tools">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -33,7 +33,7 @@
                 
     <application
         android:name="${applicationName}"
-        android:label="ARD Rider"
+        android:label="Ofelia Rider"
         android:usesCleartextTraffic="true"
         android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/launcher_icon"
@@ -91,7 +91,7 @@
 
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDnDczEoeUwf7bN5b_-223uvrecPVfzggE"/>
+            android:value="AIzaSyAXuPm_kUfxc3R9RhGkNWpcwmjz6Pub0Jw"/>
 
     </application>
 </manifest>
